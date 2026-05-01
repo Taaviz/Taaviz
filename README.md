@@ -8,7 +8,7 @@
 
 <div align="left">
  
-🧑‍💻 Backend Developer · Looking for Internship Opportunities
+🧑‍💻 Backend Developer
 
 🎓 Information Systems Undergraduate at [FHO](https://www.fho.edu.br/)  
 
