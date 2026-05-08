@@ -18,13 +18,12 @@
 
 <br/>
 
-<div align="center">
-  <!-- Ícones do Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,pycharm,vscode" valign="middle" />
-  
-  <!-- Ícone do n8n (estilo badge para combinar) -->
-  <a href="https://n8n.io" target="_blank">
-    <img src="https://shields.io" height="50" valign="middle" />
+<div align="left">
+  <a href="mailto:bonometti.luis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luisotavio2905/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
 </div>
 
