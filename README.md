@@ -24,6 +24,7 @@
   </a>
   <a href="https://www.linkedin.com/in/luisotavio2905/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+    ![Minhas Skills](https://skillicons.dev) ![n8n](https://worldvectorlogo.com)
   </a>
 </div>
 
@@ -35,5 +36,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,c,mysql,pycharm,vscode"
+      ![Minhas Skills](https://skillicons.dev) ![n8n](https://worldvectorlogo.com)
+
   </a>
 </div>
