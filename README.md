@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,mysql,pycharm,vscode"
+    <img src="https://skillicons.dev/icons?i=python,java,c,mysql,pycharm,intelij,helix,vscode"
       ![Minhas Skills](https://skillicons.dev) ![n8n](https://worldvectorlogo.com)
 
   </a>
