@@ -34,6 +34,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,mysql,pycharm,vscode"
+    <img src="https://skillicons.dev/icons?i=python,java,c,mysql,pycharm,vscode,cpython"
   </a>
 </div>
