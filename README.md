@@ -8,7 +8,7 @@
 
 <div align="left">
  
-🧑‍💻 Backend Developer
+🧑‍💻 AI Developer
 
 🎓 Information Systems Undergraduate at [FHO](https://www.fho.edu.br/)  
 
